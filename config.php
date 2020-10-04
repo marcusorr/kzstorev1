@@ -30,7 +30,7 @@ $Description = "Sellix Template made by Qrow#3914";
 // These are top right and link off page. They open a new browser window. The first one is the name such as "Home" and the second one is where it will link to.
 $navbar = [
     [
-        "item" => "SMade by @marcus-orr",
+        "item" => "Made by @marcus-orr",
         "href" => "https://www.snapchat.com/add/marcus-orr",
     ],
     [
