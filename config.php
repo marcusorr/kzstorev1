@@ -114,23 +114,12 @@ $PDesc = "Get some juicy products and services off us!";
 // First is the Product Name. Second is the Product Description. Third is the Product ID can be found int he URL. Fourth is your product Image.
 $Products = [
     [
-        "Name" => "Dead ebays x 4",
-        "Desc" => "Email:Passwords that may log in to different sites.",
-        "ID" => "5f779300477fd",
-        "Image" => "https://cdn.sellix.io/static/images/products/481aed273b2947f465785983ece42ec2e9531ebb69b4a622784cd9151a8a2470.png",
+        "Name" => "Depop Account x 2",
+        "Desc" => "Depop logins with random ammounts of followers.",
+        "ID" => "5f79a87b9df0d",
+        "Image" => "https://cdn.sellix.io/static/images/products/ced9598f3928b9ccfa21829171f05cb08dac5e268aee66b887c1d3687650b5c6.jpeg",
     ],
-    [
-        "Name" => "Checked Moonpig Account",
-        "Desc" => "A moonpig account that will log in.",
-        "ID" => "5f77911a987f8",
-        "Image" => "https://cdn.sellix.io/static/images/products/37b8b0f60fcd16190c8bee6d9f8b84c6e1b875044de0278b4605e71a7e5c4bc1.png",
-    ],
-    [
-        "Name" => "Unchecked Paypals x 5",
-        "Desc" => "Paypal accounts that may log in.",
-        "ID" => "5f777b0c12f26",
-        "Image" => "https://cdn.sellix.io/static/images/products/e008fa7b4418fb2ba0c84fa8bb0425cff9c3d81414a55d5b2b50a47d1a9fb542.jpg",
-    ],
+   
 ];
 
 // BEFORE EDITING THIS FILE, PLEASE READ THE README FILE! OR JUST SUFFER. \\
